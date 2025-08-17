@@ -1,0 +1,304 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="e2N5ShaCsa6P40W__aIy">
+    <mxGraphModel dx="815" dy="425" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hRCG1tloKr0agwtzq0OY-3" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#EEE6FF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="11" y="11" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-4" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-3">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-5" value="SRq-1" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-3">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-6" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-3">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-7" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Coordinator can register companies &amp;amp; internships and assign students.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-3">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-8" value="Id=SRq-1" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-3">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-9" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-3">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-20" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#EEE6FF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="11" y="154" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-21" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-20">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-22" value="SRq-2" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-20">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-23" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-20">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-24" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Students can log weekly progress for the assigned internship.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-20">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-25" value="Id=SRq-2" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-20">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-26" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-20">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-28" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#EEE6FF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="11" y="297" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-29" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-28">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-30" value="SRq-3" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-28">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-31" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-28">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-32" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Supervisors can submit evaluations and comments.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-28">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-33" value="Id=SRq-3" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-28">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-34" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-28">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-35" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#EEE6FF;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="11" y="440" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-36" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-35">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-37" value="SRq-4" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-35">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-38" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-35">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-39" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Faculty can view dashboards and export reports.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-35">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-40" value="Id=SRq-4" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-35">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-41" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-35">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-56" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="287" y="11" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-57" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-56">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-58" value="REQ-1" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-56">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-59" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-56">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-60" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Companies CRUD (name, contactEmail).&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-56">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-61" value="Id=REQ-1" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-56">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-62" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-56">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-63" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="287" y="154" width="198" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-64" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-63">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-65" value="REQ-2" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-63">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-66" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-63">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-67" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Internships CRUD (title, company, student, program, startDate, endDate, status, notes, createdBy).&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-63">
+          <mxGeometry y="42" width="198" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-68" value="Id=REQ-2" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-63">
+          <mxGeometry y="110" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-69" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-63">
+          <mxGeometry y="126" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-70" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="287" y="319" width="198" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-71" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-70">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-72" value="REQ-3" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-70">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-73" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-70">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-74" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Assign 0..1 active internship per student; prevent overlap.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-70">
+          <mxGeometry y="42" width="198" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-75" value="Id=REQ-3" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-70">
+          <mxGeometry y="110" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-76" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-70">
+          <mxGeometry y="126" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-77" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="287" y="484" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-78" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-77">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-79" value="REQ-4" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-77">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-80" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-77">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-81" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Progress logs CRUD (date, hours, note) linked to internship.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-77">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-82" value="Id=REQ-4" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-77">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-83" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-77">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-84" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="496" y="473" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-85" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-84">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-86" value="REQ-9" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-84">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-87" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-84">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-88" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Audit timestamps (createdAt, updatedAt) on all records.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-84">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-89" value="Id=REQ-9" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-84">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-90" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-84">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-91" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="495" y="297" width="198" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-92" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-91">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-93" value="REQ-8" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-91">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-94" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-91">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-95" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Authentication &amp;amp; authorization (JWT); roles student/coordinator/&lt;/code&gt;&lt;div&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;supervisor.&lt;/code&gt;&lt;/div&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-91">
+          <mxGeometry y="42" width="198" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-96" value="Id=REQ-8" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-91">
+          <mxGeometry y="99" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-97" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-91">
+          <mxGeometry y="115" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-98" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="496" y="154" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-99" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-98">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-100" value="REQ-7" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-98">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-101" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-98">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-102" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Dashboard: totals and % completion by status.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-98">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-103" value="Id=REQ-7" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-98">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-104" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-98">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-105" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="496" y="11" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-106" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-105">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-107" value="REQ-6" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-105">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-108" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-105">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-109" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Reporting: CSV/PDF exports (internships, logs, evaluations).&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-105">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-110" value="Id=REQ-6" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-105">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-111" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-105">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-113" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="286" y="627" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-114" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-113">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-115" value="REQ-5" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-113">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-116" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-113">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-117" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;Supervisor evaluation (score 1–5, feedback) per internship.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-113">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-118" value="Id=REQ-5" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-113">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-119" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-113">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-120" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fillColor=#F5F5F5;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="495" y="616" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-121" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-120">
+          <mxGeometry width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-122" value="REQ-10" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="hRCG1tloKr0agwtzq0OY-120">
+          <mxGeometry y="16" width="198" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-123" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-120">
+          <mxGeometry y="34" width="198" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-124" value="text=&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1254&quot; data-start=&quot;1183&quot;&gt;CI/CD to QUT EC2; pm2 for backend; public URL online.&lt;/code&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-120">
+          <mxGeometry y="42" width="198" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-125" value="Id=REQ-10" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-120">
+          <mxGeometry y="88" width="198" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hRCG1tloKr0agwtzq0OY-126" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hRCG1tloKr0agwtzq0OY-120">
+          <mxGeometry y="104" width="198" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
